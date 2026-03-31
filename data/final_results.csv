@@ -1,0 +1,2 @@
+jl_components,jl_eps,hidden_dims,dropout,lr,weight_decay,k_folds,mean_cv_rmse,std_cv_rmse,test_rmse_mlp,test_rmse_jl_baseline,improvement_pct
+128,0.5,"[512, 256, 128]",0.3,0.001,0.0001,5,0.9206414308347377,0.031438123319794065,0.9359070596218572,78.63563744615097,98.80981818165745
